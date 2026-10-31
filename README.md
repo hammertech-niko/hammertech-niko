@@ -47,7 +47,7 @@ A Telegram bot built with Python and aiogram that helps users track their daily 
 **Tech:**
 Python • Aiogram • SQLite • FSM
 
-[View Project →]
+[View Project →] https://github.com/hammertech-niko/-Habit-Tracker-Bot
 
 ---
 
@@ -58,9 +58,8 @@ Follow my journey as I create new applications and tools.
 ---
 
 ## 📫 Connect With Me
-🌐 Linktree: your-link  
-💼 LinkedIn: your-link  
-📸 Instagram: your-link  
+🌐 Linktree: https://linktr.ee/hammertechniko
+💼 LinkedIn: https://www.linkedin.com/in/nikita-hammerschmidt-15b33837a/  
 
 
 ---
